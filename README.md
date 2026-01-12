@@ -5,9 +5,20 @@
 ### 📋 Description
 Outil OSINT éthique pour la protection de la vie privée et la vérification de sécurité.
 
-### 🚀 Installation
+### 🚀 Installation termux
 ```bash
 git clone https://github.com/dvrk-smith/osint-tool-pro.git
 cd osint-tool-pro
 pip install -r requirements.txt
 python3 main.py
+
+### 🚀 Installation Rapide (Linux)
+
+```bash
+# One-liner d'installation
+bash <(curl -s https://raw.githubusercontent.com/DARK19SMITH/osint-tool-pro/main/install_linux.sh)
+
+# Ou manuellement
+git clone https://github.com/DARK19SMITH/osint-tool-pro.git
+cd osint-tool-pro
+./install_linux.sh
