@@ -10,12 +10,12 @@ env/
 venv/
 .venv/
 
-# Fichiers de données
+# Fichiers de données (ne pas uploader)
 data/
 reports/
 logs/
 
-# Configuration (ne pas partager les clés API !)
+# Configuration (NE PAS PARTAGER LES CLÉS API !)
 config.py
 
 # Système
