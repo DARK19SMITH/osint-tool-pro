@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnements virtuels
+env/
+venv/
+.venv/
+
+# Fichiers de données
+data/
+reports/
+logs/
+
+# Configuration (ne pas partager les clés API !)
+config.py
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Fichiers temporaires
+*.tmp
+*.temp
