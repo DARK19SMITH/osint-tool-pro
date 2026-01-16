@@ -22,3 +22,7 @@ bash <(curl -s https://raw.githubusercontent.com/DARK19SMITH/osint-tool-pro/main
 git clone https://github.com/DARK19SMITH/osint-tool-pro.git
 cd osint-tool-pro
 ./install_linux.sh
+```
+#⚠️Clause de non-responsabilité
+
+Cet outil est destiné exclusivement au piratage éthique et à des fins éducatives . Ne l'utilisez pas sur des réseaux dont vous n'êtes pas propriétaire ou pour lesquels vous n'avez pas l'autorisation de faire des tests.
